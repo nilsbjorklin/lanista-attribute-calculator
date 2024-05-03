@@ -1,0 +1,14 @@
+{
+    "health": "HP",
+    "strength": "SB",
+    "endurance": "UTH",
+    "initiative": "INI",
+    "dodge": "UA",
+    "axes": "VF",
+    "swords": "VF",
+    "maces": "VF",
+    "staves": "VF",
+    "shield": "VF",
+    "spears": "VF",
+    "chain": "VF"
+}

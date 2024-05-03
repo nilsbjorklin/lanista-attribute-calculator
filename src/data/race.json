@@ -1,0 +1,9 @@
+{
+    "human": "Människa",
+    "elf": "Alv",
+    "dwarf": "Dvärg",
+    "orc": "Ork",
+    "troll": "Troll",
+    "goblin": "Goblin",
+    "undead": "Odöd"
+}

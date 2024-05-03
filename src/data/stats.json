@@ -1,0 +1,14 @@
+{
+    "health": "Bashälsa",
+    "strength": "Styrka",
+    "endurance": "Uthållighet",
+    "initiative": "Initiativ",
+    "dodge": "Undvika Antall",
+    "axes": "Yxor",
+    "swords": "Svärd",
+    "maces": "Hammare",
+    "staves": "Stavar",
+    "shield": "Sköldar",
+    "spears": "Stick",
+    "chain": "Kätting"
+}
