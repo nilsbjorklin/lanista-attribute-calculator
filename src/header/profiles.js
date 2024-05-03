@@ -47,6 +47,11 @@ export default function Profiles({ desktop }) {
 
     function renameCurrentProfile(name) {
         console.log('renameCurrentProfile');
+        setProfileList((prev)=> {
+            prev[activeProfileId] = name;
+            console.log(prev);
+            return structuredClone(prev);
+        })
     }
     
 
